@@ -1,0 +1,959 @@
+[
+  {
+    "name": "Lào Cai",
+    "map_names": [
+      "Lào Cai",
+      "Tỉnh Lào Cai",
+      "T.Lào Cai",
+      "T Lào Cai",
+      "laocai"
+    ],
+    "short_name": "LC",
+    "code": 269,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hưng Yên",
+    "map_names": [
+      "Hưng Yên",
+      "Tỉnh Hưng Yên",
+      "T.Hưng Yên",
+      "T Hưng Yên",
+      "hungyen"
+    ],
+    "short_name": "HY",
+    "code": 268,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hòa Bình",
+    "map_names": [
+      "Hòa Bình",
+      "Tỉnh Hòa Bình",
+      "T.Hòa Bình",
+      "T Hòa Bình",
+      "hoabinh"
+    ],
+    "short_name": "HB",
+    "code": 267,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Sơn La",
+    "map_names": ["Sơn La", "Tỉnh Sơn La", "T.Sơn La", "T Sơn La", "sonla"],
+    "short_name": "SL",
+    "code": 266,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Điện Biên",
+    "map_names": [
+      "Điện Biên",
+      "Tỉnh Điện Biên",
+      "T.Điện Biên",
+      "T Điện Biên",
+      "dienbien"
+    ],
+    "short_name": "ĐB",
+    "code": 265,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Lai Châu",
+    "map_names": [
+      "Lai Châu",
+      "Tỉnh Lai Châu",
+      "T.Lai Châu",
+      "T Lai Châu",
+      "laichau"
+    ],
+    "short_name": "LC",
+    "code": 264,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Yên Bái",
+    "map_names": [
+      "Yên Bái",
+      "Tỉnh Yên Bái",
+      "T.Yên Bái",
+      "T Yên Bái",
+      "yenbai"
+    ],
+    "short_name": "YB",
+    "code": 263,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bình Định",
+    "map_names": [
+      "Bình Định",
+      "Tỉnh Bình Định",
+      "T.Bình Định",
+      "T Bình Định",
+      "binhdinh",
+      "Binh Dinh",
+      "binh dinh"
+    ],
+    "short_name": "BĐ",
+    "code": 262,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Ninh Thuận",
+    "map_names": [
+      "Ninh Thuận",
+      "Tỉnh Ninh Thuận",
+      "T.Ninh Thuận",
+      "T Ninh Thuận",
+      "ninhthuan"
+    ],
+    "short_name": "NT",
+    "code": 261,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Phú Yên",
+    "map_names": [
+      "Phú Yên",
+      "Tỉnh Phú Yên",
+      "T.Phú Yên",
+      "T Phú Yên",
+      "phuyen"
+    ],
+    "short_name": "PY",
+    "code": 260,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Kon Tum",
+    "map_names": [
+      "Kon Tum",
+      "Tỉnh Kon Tum",
+      "T.Kon Tum",
+      "T Kon Tum",
+      "kontum",
+      "contum"
+    ],
+    "short_name": "KT",
+    "code": 259,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bình Thuận",
+    "map_names": [
+      "Bình Thuận",
+      "Tỉnh Bình Thuận",
+      "T.Bình Thuận",
+      "T Bình Thuận",
+      "binhthuan"
+    ],
+    "short_name": "BT",
+    "code": 258,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bạc Liêu",
+    "map_names": [
+      "Bạc Liêu",
+      "Tỉnh Bạc Liêu",
+      "T.Bạc Liêu",
+      "T Bạc Liêu",
+      "baclieu"
+    ],
+    "short_name": "BL",
+    "code": 253,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Cà Mau",
+    "map_names": ["Cà Mau", "Tỉnh Cà Mau", "T.Cà Mau", "T Cà Mau", "camau"],
+    "short_name": "CM",
+    "code": 252,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hậu Giang",
+    "map_names": [
+      "Hậu Giang",
+      "Tỉnh Hậu Giang",
+      "T.Hậu Giang",
+      "T Hậu Giang",
+      "haugiang"
+    ],
+    "short_name": "HG",
+    "code": 250,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bắc Ninh",
+    "map_names": [
+      "Bắc Ninh",
+      "Tỉnh Bắc Ninh",
+      "T.Bắc Ninh",
+      "T Bắc Ninh",
+      "bacninh"
+    ],
+    "short_name": "BN",
+    "code": 249,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bắc Giang",
+    "map_names": [
+      "Bắc Giang",
+      "Tỉnh Bắc Giang",
+      "T.Bắc Giang",
+      "T Bắc Giang",
+      "bacgiang"
+    ],
+    "short_name": "BG",
+    "code": 248,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Lạng Sơn",
+    "map_names": [
+      "Lạng Sơn",
+      "Tỉnh Lạng Sơn",
+      "T.Lạng Sơn",
+      "T Lạng Sơn",
+      "langson"
+    ],
+    "short_name": "LS",
+    "code": 247,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Cao Bằng",
+    "map_names": [
+      "Cao Bằng",
+      "Tỉnh Cao Bằng",
+      "T.Cao Bằng",
+      "T Cao Bằng",
+      "caobang"
+    ],
+    "short_name": "CB",
+    "code": 246,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bắc Kạn",
+    "map_names": [
+      "Bắc Kạn",
+      "Tỉnh Bắc Kạn",
+      "T.Bắc Kạn",
+      "T Bắc Kạn",
+      "backan",
+      "baccan"
+    ],
+    "short_name": "BK",
+    "code": 245,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Thái Nguyên",
+    "map_names": [
+      "Thái Nguyên",
+      "Tỉnh Thái Nguyên",
+      "T.Thái Nguyên",
+      "T Thái Nguyên",
+      "thainguyen"
+    ],
+    "short_name": "TN",
+    "code": 244,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Quảng Nam",
+    "map_names": [
+      "Quảng Nam",
+      "Tỉnh Quảng Nam",
+      "T.Quảng Nam",
+      "T Quảng Nam",
+      "quangnam"
+    ],
+    "short_name": "QN",
+    "code": 243,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Quảng Ngãi",
+    "map_names": [
+      "Quảng Ngãi",
+      "Tỉnh Quảng Ngãi",
+      "T.Quảng Ngãi",
+      "T Quảng Ngãi",
+      "quangngai"
+    ],
+    "short_name": "QN",
+    "code": 242,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Đắk Nông",
+    "map_names": [
+      "Đắk Nông",
+      "Tỉnh Đắk Nông",
+      "T.Đắk Nông",
+      "T Đắk Nông",
+      "Đăk Nông",
+      "daknong",
+      "dacnong",
+      "dak nong"
+    ],
+    "short_name": "ĐN",
+    "code": 241,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Tây Ninh",
+    "map_names": [
+      "Tây Ninh",
+      "Tỉnh Tây Ninh",
+      "T.Tây Ninh",
+      "T Tây Ninh",
+      "tayninh"
+    ],
+    "short_name": "TN",
+    "code": 240,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bình Phước",
+    "map_names": [
+      "Bình Phước",
+      "Tỉnh Bình Phước",
+      "T.Bình Phước",
+      "T Bình Phước",
+      "binhphuoc"
+    ],
+    "short_name": "BP",
+    "code": 239,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Quảng Trị",
+    "map_names": [
+      "Quảng Trị",
+      "Tỉnh Quảng Trị",
+      "T.Quảng Trị",
+      "T Quảng Trị",
+      "quangtri"
+    ],
+    "short_name": "QT",
+    "code": 238,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Quảng Bình",
+    "map_names": [
+      "Quảng Bình",
+      "Tỉnh Quảng Bình",
+      "T.Quảng Bình",
+      "T Quảng Bình",
+      "quangbinh"
+    ],
+    "short_name": "QB",
+    "code": 237,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hà Tĩnh",
+    "map_names": [
+      "Hà Tĩnh",
+      "Tỉnh Hà Tĩnh",
+      "T.Hà Tĩnh",
+      "T Hà Tĩnh",
+      "hatinh"
+    ],
+    "short_name": "HT",
+    "code": 236,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Nghệ An",
+    "map_names": [
+      "Nghệ An",
+      "Tỉnh Nghệ An",
+      "T.Nghệ An",
+      "T Nghệ An",
+      "nghean"
+    ],
+    "short_name": "NA",
+    "code": 235,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Thanh Hóa",
+    "map_names": [
+      "Thanh Hóa",
+      "Tỉnh Thanh Hóa",
+      "T.Thanh Hóa",
+      "T Thanh Hóa",
+      "thanhhoa"
+    ],
+    "short_name": "TH",
+    "code": 234,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Ninh Bình",
+    "map_names": [
+      "Ninh Bình",
+      "Tỉnh Ninh Bình",
+      "T.Ninh Bình",
+      "T Ninh Bình",
+      "ninhbinh"
+    ],
+    "short_name": "NB",
+    "code": 233,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hà Nam",
+    "map_names": ["Hà Nam", "Tỉnh Hà Nam", "T.Hà Nam", "T Hà Nam", "hanam"],
+    "short_name": "HN",
+    "code": 232,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Nam Định",
+    "map_names": [
+      "Nam Định",
+      "Tỉnh Nam Định",
+      "T.Nam Định",
+      "T Nam Định",
+      "namdinh"
+    ],
+    "short_name": "NĐ",
+    "code": 231,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Quảng Ninh",
+    "map_names": [
+      "Quảng Ninh",
+      "Tỉnh Quảng Ninh",
+      "T.Quảng Ninh",
+      "T Quảng Ninh",
+      "quangninh"
+    ],
+    "short_name": "QN",
+    "code": 230,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Phú Thọ",
+    "map_names": [
+      "Phú Thọ",
+      "Tỉnh Phú Thọ",
+      "T.Phú Thọ",
+      "T Phú Thọ",
+      "phutho"
+    ],
+    "short_name": "PT",
+    "code": 229,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Tuyên Quang",
+    "map_names": [
+      "Tuyên Quang",
+      "Tỉnh Tuyên Quang",
+      "T.Tuyên Quang",
+      "T Tuyên Quang",
+      "tuyenquang"
+    ],
+    "short_name": "TQ",
+    "code": 228,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hà Giang",
+    "map_names": [
+      "Hà Giang",
+      "Tỉnh Hà Giang",
+      "T.Hà Giang",
+      "T Hà Giang",
+      "hagiang"
+    ],
+    "short_name": "HG",
+    "code": 227,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Thái Bình",
+    "map_names": [
+      "Thái Bình",
+      "Tỉnh Thái Bình",
+      "T.Thái Bình",
+      "T Thái Bình",
+      "thaibinh"
+    ],
+    "short_name": "TB",
+    "code": 226,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hải Dương",
+    "map_names": [
+      "Hải Dương",
+      "Tỉnh Hải Dương",
+      "T.Hải Dương",
+      "T Hải Dương",
+      "haiduong"
+    ],
+    "short_name": "HD",
+    "code": 225,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hải Phòng",
+    "map_names": [
+      "Hải Phòng",
+      "TP.Hải Phòng",
+      "TP. Hải Phòng",
+      "TP Hải Phòng",
+      "Thành phố Hải Phòng",
+      "haiphong"
+    ],
+    "short_name": "HP",
+    "code": 224,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Thừa Thiên - Huế",
+    "map_names": [
+      "Thừa Thiên Huế",
+      "Thừa Thiên - Huế",
+      "Tỉnh Thừa Thiên - Huế",
+      "T.Thừa Thiên - Huế",
+      "T Thừa Thiên - Huế",
+      "hue",
+      "thuathienhue"
+    ],
+    "short_name": "TT-H",
+    "code": 223,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Vĩnh Phúc",
+    "map_names": [
+      "Vĩnh Phúc",
+      "Tỉnh Vĩnh Phúc",
+      "T.Vĩnh Phúc",
+      "T Vĩnh Phúc",
+      "vinhphuc"
+    ],
+    "short_name": "VP",
+    "code": 221,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Cần Thơ",
+    "map_names": [
+      "Cần Thơ",
+      "TP.Cần Thơ",
+      "TP. Cần Thơ",
+      "TP Cần Thơ",
+      "Thành phố Cần Thơ",
+      "cantho"
+    ],
+    "short_name": "CT",
+    "code": 220,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Kiên Giang",
+    "map_names": [
+      "Kiên Giang",
+      "Tỉnh Kiên Giang",
+      "T.Kiên Giang",
+      "T Kiên Giang",
+      "kiengiang"
+    ],
+    "short_name": "KG",
+    "code": 219,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Sóc Trăng",
+    "map_names": [
+      "Sóc Trăng",
+      "Tỉnh Sóc Trăng",
+      "T.Sóc Trăng",
+      "T Sóc Trăng",
+      "soctrang"
+    ],
+    "short_name": "ST",
+    "code": 218,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "An Giang",
+    "map_names": [
+      "An Giang",
+      "Tỉnh An Giang",
+      "T.An Giang",
+      "T An Giang",
+      "angiang"
+    ],
+    "short_name": "AG",
+    "code": 217,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Đồng Tháp",
+    "map_names": [
+      "Đồng Tháp",
+      "Tỉnh Đồng Tháp",
+      "T.Đồng Tháp",
+      "T Đồng Tháp",
+      "dongthap"
+    ],
+    "short_name": "ĐT",
+    "code": 216,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Vĩnh Long",
+    "map_names": [
+      "Vĩnh Long",
+      "Tỉnh Vĩnh Long",
+      "T.Vĩnh Long",
+      "T Vĩnh Long",
+      "vinhlong"
+    ],
+    "short_name": "VL",
+    "code": 215,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Trà Vinh",
+    "map_names": [
+      "Trà Vinh",
+      "Tỉnh Trà Vinh",
+      "T.Trà Vinh",
+      "T Trà Vinh",
+      "travinh"
+    ],
+    "short_name": "TV",
+    "code": 214,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bến Tre",
+    "map_names": [
+      "Bến Tre",
+      "Tỉnh Bến Tre",
+      "T.Bến Tre",
+      "T Bến Tre",
+      "bentre"
+    ],
+    "short_name": "BT",
+    "code": 213,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Tiền Giang",
+    "map_names": [
+      "Tiền Giang",
+      "Tỉnh Tiền Giang",
+      "T.Tiền Giang",
+      "T Tiền Giang",
+      "tiengiang"
+    ],
+    "short_name": "TG",
+    "code": 212,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Long An",
+    "map_names": [
+      "Long An",
+      "Tỉnh Long An",
+      "T.Long An",
+      "T Long An",
+      "longan"
+    ],
+    "short_name": "LA",
+    "code": 211,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Đắk Lắk",
+    "map_names": [
+      "Đắk Lắk",
+      "Tỉnh Đắk Lắk",
+      "T.Đắk Lắk",
+      "T Đắk Lắk",
+      "Đăk Lăk",
+      "daklak",
+      "daclac",
+      "daklac",
+      "daclak"
+    ],
+    "short_name": "ĐL",
+    "code": 210,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Lâm Đồng",
+    "map_names": [
+      "Lâm Đồng",
+      "Tỉnh Lâm Đồng",
+      "T.Lâm Đồng",
+      "T Lâm Đồng",
+      "lamdong"
+    ],
+    "short_name": "LĐ",
+    "code": 209,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Khánh Hòa",
+    "map_names": [
+      "Khánh Hòa",
+      "Tỉnh Khánh Hòa",
+      "T.Khánh Hòa",
+      "T Khánh Hòa",
+      "khanhhoa"
+    ],
+    "short_name": "KH",
+    "code": 208,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Gia Lai",
+    "map_names": [
+      "Gia Lai",
+      "Tỉnh Gia Lai",
+      "T.Gia Lai",
+      "T Gia Lai",
+      "gialai"
+    ],
+    "short_name": "GL",
+    "code": 207,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bà Rịa - Vũng Tàu",
+    "map_names": [
+      "Bà Rịa - Vũng Tàu",
+      "Tỉnh Bà Rịa - Vũng Tàu",
+      "T.Bà Rịa - Vũng Tàu",
+      "T Bà Rịa - Vũng Tàu",
+      "Bà Rịa Vũng Tàu",
+      "bariavungtau",
+      "vungtau",
+      "Bà Rịa-Vũng Tàu",
+      "bà rịa-vũng tàu"
+    ],
+    "short_name": "BR-VT",
+    "code": 206,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Bình Dương",
+    "map_names": [
+      "Bình Dương",
+      "Tỉnh Bình Dương",
+      "T.Bình Dương",
+      "T Bình Dương",
+      "binhduong"
+    ],
+    "short_name": "BD",
+    "code": 205,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Đồng Nai",
+    "map_names": [
+      "Đồng Nai",
+      "Tỉnh Đồng Nai",
+      "T.Đồng Nai",
+      "T Đồng Nai",
+      "dongnai"
+    ],
+    "short_name": "ĐN",
+    "code": 204,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Đà Nẵng",
+    "map_names": [
+      "Đà Nẵng",
+      "TP.Đà Nẵng",
+      "TP. Đà Nẵng",
+      "TP Đà Nẵng",
+      "Thành phố Đà Nẵng",
+      "danang",
+      "DN"
+    ],
+    "short_name": "ĐN",
+    "code": 203,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hồ Chí Minh",
+    "map_names": [
+      "Hồ Chí Minh",
+      "TP.Hồ Chí Minh",
+      "TP. Hồ Chí Minh",
+      "TP Hồ Chí Minh",
+      "Thành phố Hồ Chí Minh",
+      "HCM",
+      "hochiminh",
+      "saigon",
+      "sg",
+      "Ho Chi Minh",
+      "ho chi minh"
+    ],
+    "short_name": "HCM",
+    "code": 202,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  },
+  {
+    "name": "Hà Nội",
+    "map_names": [
+      "Hà Nội",
+      "TP.Hà Nội",
+      "TP. Hà Nội",
+      "TP Hà Nội",
+      "Thành phố Hà Nội",
+      "hanoi",
+      "HN",
+      "ha noi"
+    ],
+    "short_name": "HN",
+    "code": 201,
+    "zip_code": null,
+    "priority": 1,
+    "active": true
+  }
+]
